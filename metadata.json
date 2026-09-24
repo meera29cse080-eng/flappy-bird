@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird Standalone",
+  "description": "A complete, responsive Flappy Bird arcade game built with HTML5 Canvas, physics simulation, score tracking, and retro effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
